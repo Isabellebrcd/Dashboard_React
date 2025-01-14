@@ -1,0 +1,32 @@
+.card-deck-container {
+    width: calc(94% - 20px);
+}
+
+.weather-icon {
+    width: 100px;
+}
+#today-forecast-more-info {
+    margin: 0px;
+}
+@media screen and (min-width: 425px) {
+    .button-load-forecast {
+        width: 50% !important;
+        margin: auto;
+    }
+}
+.titre{
+    font-weight: 600 !important;
+}
+.city-style {
+    color: aliceblue;
+    font-size: 2.5rem;
+    font-weight: 600;
+
+}
+.card-body{
+    background: linear-gradient(to bottom, #FFA96B, #FFE2CD);
+}
+.card-header{
+    background-color: #592602 !important;
+    color: white;
+}

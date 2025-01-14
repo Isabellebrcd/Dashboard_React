@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:wght@100;200;300;400;500;600;800&display=swap');
+
+.box_composant {
+    border: none;
+    margin: 10px;
+    padding: 10px;
+    background: rgba(255, 250, 242, 0.70);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
+    border-radius: 16px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+    display: inline-flex;
+}
+
+.styleTitre {
+    color: #592602;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    word-wrap: break-word;
+}
+
+.stylePays {
+    border: 1px #592602 solid;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 16px;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.Pays {
+    color: #592602;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+.nbPersonnes{
+    color: #CA4914;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Bouton{
+    background: #FFF7F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
+    border-radius: 16px;
+    border:2px solid #C84716;
+    margin: 10px;
+    padding: 10px;
+    color : #C84716;
+    font-weight: 600;
+}
+
+.ModalLabel {
+    display: block;
+    margin-bottom: 1%;
+}
+
+.Title{
+    color : #FFE2CD;
+}
+
+.Title2{
+    color : #C84716;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.LabelsContainer {
+    background: #FFF7F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
+    border-radius: 16px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: auto;
+    color : #C84716;
+    font-weight: 500;
+}
+
+.CustomInput {
+    background: #FFF7F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10);
+    border-radius: 16px;
+    width: auto;
+}
+

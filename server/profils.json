@@ -1,0 +1,8 @@
+{
+  "profils": [
+    { "id": 1, "email": "admin@example.com", "password": "admin123", "role": "admin" },
+    { "id": 2, "email": "client@example.com", "password": "client123", "role": "client" },
+    { "id": 3, "email": "client2@example.com", "password": "client1234", "role": "client" },
+    { "id": 4, "email": "admin2@example.com", "password": "admin1234", "role": "admin" }
+  ]
+}

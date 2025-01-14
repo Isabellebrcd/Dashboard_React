@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:wght@100;200;300;400;500;600;800&display=swap');
+
+#root, html, body {
+    margin: 0 auto;
+}
+
+body{
+    background: linear-gradient(90deg, #FFF7F2 0%, #FFE2CD 100%);
+}
+
+.textPassword{
+    color: #592602;
+}
+
+.PEIot{
+    width: 100%;
+    height: 100%;
+    color: #592602;
+    font-size: 24px;
+    font-family: Istok Web, serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.Login{
+    width: 100%;
+    height: 100%;
+    color: #592602;
+    font-size: 38px;
+    font-family: Istok Web, serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Email{
+    width: 100%;
+    height: 100%;
+    color: #592602;
+    font-size: 14px;
+    font-family: Istok Web, serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Password{
+    width: 100%;
+    height: 100%;
+    color: #592602;
+    font-size: 14px;
+    font-family: Istok Web, serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Rectangle1384{
+    width: 7vw;
+    height: 5vh;
+    background: #FFFAF6;
+    border-radius: 40px;
+    border: 2px #C74617 solid;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
